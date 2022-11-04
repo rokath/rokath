@@ -43,8 +43,8 @@ https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71
 https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang
 
 https://talks.golang.org/2014/testing.slide#1
-
 https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
+https://gist.github.com/ik5/d8ecde700972d4378d87
 
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
