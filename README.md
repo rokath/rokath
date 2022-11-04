@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
 * [ ] [The Go Language: What Makes it Different?](https://youtu.be/FEFXjRoac_U)
 * [ ] [Top 3 Programming Languages for 2019](https://youtu.be/_00HnjEMyew)
-* [ ] https://twitter.com/golangnews/status/1319889604237983744?s=08
-
+* [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
+https://youtu.be/LvgVSSpwND8
 
 
 <!--
 
-https://youtu.be/LvgVSSpwND8
+
 https://youtu.be/oV9rvDllKEg
 https://youtu.be/rFejpH_tAHM
 https://golang.org/doc/modules/managing-dependencies
