@@ -35,14 +35,15 @@ Here are some ideas to get you started:
 * [ ] [Expressiveness of Go PDF](https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf)
 * [ ] [Managing dependencies](https://golang.org/doc/modules/managing-dependencies)
 * [ ] [Reasons Why Golang is Better Than Other Programming Languages](https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1)
-* [ ] [v](https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71)
-
+* [ ] [Golang For Mobile Development](https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71)
+* [ ] [Implementing Golang Interfaces](https://link.medium.com/W5oEMjLEF8)
+* [ ] [y](https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang)
 <!--
 
 
 
-[“Implementing Golang Interfaces; Like a Boss” by Jordan Chalupka](https://link.medium.com/W5oEMjLEF8) 
-https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang
+
+
 
 https://talks.golang.org/2014/testing.slide#1
 https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
