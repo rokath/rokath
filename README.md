@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokath)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokath)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokath)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## My favorite PC language is [Go](https://go.dev)
 
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
-
+https://youtu.be/5kj5ApnhPAE
 <!--
 https://youtu.be/5kj5ApnhPAE
 https://youtu.be/FEFXjRoac_U
