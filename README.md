@@ -1,4 +1,4 @@
-7### Hi there 👋
+### Hi there 👋
 
 <!--
 **rokath/rokath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ## My favorite PC language is [Go](https://go.dev)
 
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
-https://youtu.be/5kj5ApnhPAE
+* [ ] https://youtu.be/5kj5ApnhPAE
+
 <!--
 https://youtu.be/5kj5ApnhPAE
 https://youtu.be/FEFXjRoac_U
