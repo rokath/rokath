@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 * [ ] [Golang For Mobile Development](https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71)
 * [ ] [Implementing Golang Interfaces](https://link.medium.com/W5oEMjLEF8)
 * [ ] [Why are interfaces needed in Golang?](https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang)
-* [ ] [x](https://talks.golang.org/2014/testing.slide#1)
+* [ ] [Testing Techniques](https://talks.golang.org/2014/testing.slide#1)
+* [ ] https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
 
 
 <!--
 
-https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
+
 [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 https://flaviocopes.com/golang-algorithms-binary-search/
 
