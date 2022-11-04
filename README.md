@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 * [ ] [The Go Language: What Makes it Different?](https://youtu.be/FEFXjRoac_U)
 * [ ] [Top 3 Programming Languages for 2019](https://youtu.be/_00HnjEMyew)
 * [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
-https://youtu.be/LvgVSSpwND8
-
+* [ ] [Concurrency in Go](https://youtu.be/LvgVSSpwND8)
+* [ ] https://youtu.be/oV9rvDllKEg
 
 <!--
 
 
-https://youtu.be/oV9rvDllKEg
+
 https://youtu.be/rFejpH_tAHM
 https://golang.org/doc/modules/managing-dependencies
 https://play.golang.org/p/lYGWRHhT6Tm
