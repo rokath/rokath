@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 * [ ] [Implementing Golang Interfaces](https://link.medium.com/W5oEMjLEF8)
 * [ ] [Why are interfaces needed in Golang?](https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang)
 * [ ] [Testing Techniques](https://talks.golang.org/2014/testing.slide#1)
-* [ ] https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
+* [ ] [A curated list of awesome Go frameworks, libraries and software](https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging)
+* [ ] [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
+* [ ] https://flaviocopes.com/golang-algorithms-binary-search/
 
 
 <!--
