@@ -1,4 +1,4 @@
-### Hi there 👋
+7### Hi there 👋
 
 <!--
 **rokath/rokath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +45,7 @@ https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang
 https://talks.golang.org/2014/testing.slide#1
 https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
 [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
-
+https://flaviocopes.com/golang-algorithms-binary-search/
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
