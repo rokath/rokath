@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 * [ ] [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 * [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
 * [ ] [GitHub Go](https://github.com/golang)
-* [ ] https://blog.golang.org/slices
+* [ ] [Arrays, slices (and strings)](https://blog.golang.org/slices)
 * [ ] https://xojoc.pw/blog/golang-file-tree-traversal
 
 
