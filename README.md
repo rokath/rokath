@@ -44,30 +44,32 @@ Here are some ideas to get you started:
 * [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
 * [ ] [GitHub Go](https://github.com/golang)
 * [ ] [Arrays, slices (and strings)](https://blog.golang.org/slices)
-* [ ] https://xojoc.pw/blog/golang-file-tree-traversal
+* [ ] [Golang: File Tree Traversal (filepath.Walk)](https://xojoc.pw/blog/golang-file-tree-traversal)
+* [ ] https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
+* [ ] https://gitlab.com/teaage/gospace/
+* [ ] [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
+## Tools I like and use
+
+* [ ] Windows Subsystem for Linux (debian image and additionally the gcc compiler)
+* [ ] Git bash
+* [ ] https://www.gitkraken.com/
+* [ ] https://code.visualstudio.com/
+* [ ] notepad++ especially for block editing
+* [ ] TeraTerm
+* [ ] 7-Zip
+* [ ] https://gitlab.com/baumtec/meta/wikis/GitPcSetup
+* [ ] STM32 CubeMX
+* [ ] ARM Keil IDE
+* [ ] https://unicode-table.com/en/
+* [ ] draw.io
+* [ ] Beyond Compare
+* [ ] https://www.sumatrapdfreader.org/free-pdf-reader
+* [ ] Putty
+* [ ] SEGGER
+* [ ] TDM-GCC64
 
 <!--
 
-
-would you please be so kind to evaluate the option to write the DALIBU PC program in golang?
-It is a new cool language and allows also to be linked with C-Code. You can find information about that for example in https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
-I invited you to my so far private project https://gitlab.com/teaage/gospace/, where I put my learning results for now, but there is also plenty of information in the internet.
-
-What could also be an option is https://en.wikipedia.org/wiki/Rust_(programming_language), but I had no time so far to deal with it anyhow.
-
-To loose not too much time in Sofia, I propose especially for Kamen:
-Please install a Windows Subsystem for Linux debian image and additionally the gcc compiler inside debian using  the package manager apt-get
-Please install Git bash
-Please install https://www.gitkraken.com/
-Please install https://code.visualstudio.com/
-See https://gitlab.com/baumtec/meta/wikis/GitPcSetup for more details
-Please install http://www2.keil.com/mdk5/uvision/
-Please install https://www.st.com/en/development-tools/stm32cubemx.html
-Handy is also notepad++ especially for block editing
-Please install TeraTerm
-Probably you need also some MS DLL's but that we can solve directly.
-
 -->
-[Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
