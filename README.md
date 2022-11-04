@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 * [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
 * [ ] [Concurrency in Go](https://youtu.be/LvgVSSpwND8)
 * [ ] [Concurrency is not Parallelism by Rob Pike ](https://youtu.be/oV9rvDllKEg)
-* [ ] [x](https://youtu.be/rFejpH_tAHM)
+* [ ] [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
+* [ ] [x](https://play.golang.org/p/lYGWRHhT6Tm)
 
 <!--
 https://golang.org/doc/modules/managing-dependencies
-https://play.golang.org/p/lYGWRHhT6Tm
+
 Expressiveness of Go PDF -> Sehr kurz,  etwas angestaubt aber inhaltlich  weitgehend aktuell. Rob Pike ist einer der Go Erfinder.
 https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
 https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71
