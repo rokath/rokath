@@ -29,13 +29,10 @@ Here are some ideas to get you started:
 * [ ] [Top 3 Programming Languages for 2019](https://youtu.be/_00HnjEMyew)
 * [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
 * [ ] [Concurrency in Go](https://youtu.be/LvgVSSpwND8)
-* [ ] https://youtu.be/oV9rvDllKEg
+* [ ] [Concurrency is not Parallelism by Rob Pike ](https://youtu.be/oV9rvDllKEg)
+* [ ] [x](https://youtu.be/rFejpH_tAHM)
 
 <!--
-
-
-
-https://youtu.be/rFejpH_tAHM
 https://golang.org/doc/modules/managing-dependencies
 https://play.golang.org/p/lYGWRHhT6Tm
 Expressiveness of Go PDF -> Sehr kurz,  etwas angestaubt aber inhaltlich  weitgehend aktuell. Rob Pike ist einer der Go Erfinder.
