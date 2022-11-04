@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 * [ ] [OSCON 2010: Rob Pike, "Public Static Void"](https://youtu.be/5kj5ApnhPAE)
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
 * [ ] [The Go Language: What Makes it Different?](https://youtu.be/FEFXjRoac_U)
-* [ ] [x](https://youtu.be/_00HnjEMyew)
+* [ ] [Top 3 Programming Languages for 2019](https://youtu.be/_00HnjEMyew)
+* [ ] https://twitter.com/golangnews/status/1319889604237983744?s=08
+
+
 
 <!--
 
-
-
-https://twitter.com/golangnews/status/1319889604237983744?s=08
 https://youtu.be/LvgVSSpwND8
 https://youtu.be/oV9rvDllKEg
 https://youtu.be/rFejpH_tAHM
