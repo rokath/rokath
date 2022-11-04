@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 * [ ] [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
 * [ ] [The Go playground](https://play.golang.org/p/lYGWRHhT6Tm)
 * [ ] [Expressiveness of Go PDF](https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf)
-* [ ] [dep](https://golang.org/doc/modules/managing-dependencies)
+* [ ] [Managing dependencies](https://golang.org/doc/modules/managing-dependencies)
+* [ ] [x](https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1)
 
 <!--
-https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
+
 https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71
 
 [“Implementing Golang Interfaces; Like a Boss” by Jordan Chalupka](https://link.medium.com/W5oEMjLEF8) 
