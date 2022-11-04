@@ -41,14 +41,11 @@ Here are some ideas to get you started:
 * [ ] [Testing Techniques](https://talks.golang.org/2014/testing.slide#1)
 * [ ] [A curated list of awesome Go frameworks, libraries and software](https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging)
 * [ ] [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
-* [ ] https://flaviocopes.com/golang-algorithms-binary-search/
+* [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
+* [ ] https://www.golangprograms.com/golang-program-for-implementation-of-binary-search.html
 
 
 <!--
-
-
-[Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
-https://flaviocopes.com/golang-algorithms-binary-search/
 
 https://www.golangprograms.com/golang-program-for-implementation-of-binary-search.html
 
