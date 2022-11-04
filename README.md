@@ -46,6 +46,10 @@ https://talks.golang.org/2014/testing.slide#1
 https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
 [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 https://flaviocopes.com/golang-algorithms-binary-search/
+
+https://www.golangprograms.com/golang-program-for-implementation-of-binary-search.html
+
+
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
