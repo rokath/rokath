@@ -37,15 +37,12 @@ Here are some ideas to get you started:
 * [ ] [Reasons Why Golang is Better Than Other Programming Languages](https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1)
 * [ ] [Golang For Mobile Development](https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71)
 * [ ] [Implementing Golang Interfaces](https://link.medium.com/W5oEMjLEF8)
-* [ ] [y](https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang)
+* [ ] [Why are interfaces needed in Golang?](https://stackoverflow.com/questions/39092925/why-are-interfaces-needed-in-golang)
+* [ ] [x](https://talks.golang.org/2014/testing.slide#1)
+
+
 <!--
 
-
-
-
-
-
-https://talks.golang.org/2014/testing.slide#1
 https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging
 [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 https://flaviocopes.com/golang-algorithms-binary-search/
@@ -76,11 +73,6 @@ Please install https://www.st.com/en/development-tools/stm32cubemx.html
 Handy is also notepad++ especially for block editing
 Please install TeraTerm
 Probably you need also some MS DLL's but that we can solve directly.
-
-
-
-
-
 
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
