@@ -39,6 +39,8 @@ Expressiveness of Go PDF -> Sehr kurz,  etwas angestaubt aber inhaltlich  weitge
 https://productcoalition.com/reasons-why-golang-is-better-than-other-programming-languages-4714082bb1b1
 https://medium.com/@ReemiShirsath/golang-for-mobile-development-c7391e690f71
 
+[“Implementing Golang Interfaces; Like a Boss” by Jordan Chalupka](https://link.medium.com/W5oEMjLEF8) 
+
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
