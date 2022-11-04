@@ -33,6 +33,7 @@ https://twitter.com/golangnews/status/1319889604237983744?s=08
 https://youtu.be/LvgVSSpwND8
 https://youtu.be/oV9rvDllKEg
 https://youtu.be/rFejpH_tAHM
+https://golang.org/doc/modules/managing-dependencies
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
