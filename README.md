@@ -51,23 +51,23 @@ Here are some ideas to get you started:
 
 ## Tools I like and use
 
-* [ ] Windows Subsystem for Linux (debian image and additionally the gcc compiler)
-* [ ] Git bash
-* [ ] https://www.gitkraken.com/
-* [ ] https://code.visualstudio.com/
-* [ ] notepad++ especially for block editing
-* [ ] TeraTerm
-* [ ] 7-Zip
+* [ ] [Git bash](https://gitforwindows.org/)
+* [ ] [Legendary GitKraken Client](https://www.gitkraken.com/)
+* [ ] [vscode](https://code.visualstudio.com/)
+* [ ] [notepad++ especially for block editing](https://notepad-plus-plus.org/downloads/)
+* [ ] [Tera Term](https://ttssh2.osdn.jp/index.html.en)
+* [ ] [7-Zip](https://www.7-zip.org/)
 * [ ] https://gitlab.com/baumtec/meta/wikis/GitPcSetup
-* [ ] STM32 CubeMX
-* [ ] ARM Keil IDE
+* [ ] [STM32 CubeMX initialization code generator](https://www.st.com/en/development-tools/stm32cubemx.html)
+* [ ] [ARM Keil IDE (free for any M0/M0+ up to 32KB, STM32 M0/M0+ up to 256 KB)](https://www2.keil.com/mdk5)
 * [ ] https://unicode-table.com/en/
 * [ ] [draw.io](https://github.com/jgraph/drawio-desktop/releases/)
-* [ ] Beyond Compare
-* [ ] https://www.sumatrapdfreader.org/free-pdf-reader
-* [ ] Putty
-* [ ] SEGGER
-* [ ] TDM-GCC64
+* [ ] [Beyond Compare](https://www.scootersoftware.com/)
+* [ ] [Sumatra PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows](https://www.sumatrapdfreader.org/free-pdf-reader)
+* [ ] [putty](https://www.putty.org/)
+* [ ] [J-Link Software and Documentation Pack](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack)
+* [ ] [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
+* [ ] Windows Subsystem for Linux (debian image and additionally the gcc compiler)
 
 <!--
 
