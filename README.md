@@ -35,6 +35,7 @@ https://youtu.be/oV9rvDllKEg
 https://youtu.be/rFejpH_tAHM
 https://golang.org/doc/modules/managing-dependencies
 https://play.golang.org/p/lYGWRHhT6Tm
+Expressiveness of Go PDF -> Sehr kurz,  etwas angestaubt aber inhaltlich  weitgehend aktuell. Rob Pike ist einer der Go Erfinder.
 -->
 [Watch "5 Reasons Why Golang is The Best Programming Language to Learn in 2021 (including golang drawbacks)" on YouTube](https://youtu.be/Xi779UBOGGM)
 
