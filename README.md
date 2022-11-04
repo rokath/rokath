@@ -53,6 +53,30 @@ https://github.com/golang/go.wiki.git
 
 https://blog.golang.org/slices
 
+https://xojoc.pw/blog/golang-file-tree-traversal
+
+
+would you please be so kind to evaluate the option to write the DALIBU PC program in golang?
+It is a new cool language and allows also to be linked with C-Code. You can find information about that for example in https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
+I invited you to my so far private project https://gitlab.com/teaage/gospace/, where I put my learning results for now, but there is also plenty of information in the internet.
+
+What could also be an option is https://en.wikipedia.org/wiki/Rust_(programming_language), but I had no time so far to deal with it anyhow.
+
+To loose not too much time in Sofia, I propose especially for Kamen:
+Please install a Windows Subsystem for Linux debian image and additionally the gcc compiler inside debian using  the package manager apt-get
+Please install Git bash
+Please install https://www.gitkraken.com/
+Please install https://code.visualstudio.com/
+See https://gitlab.com/baumtec/meta/wikis/GitPcSetup for more details
+Please install http://www2.keil.com/mdk5/uvision/
+Please install https://www.st.com/en/development-tools/stm32cubemx.html
+Handy is also notepad++ especially for block editing
+Please install TeraTerm
+Probably you need also some MS DLL's but that we can solve directly.
+
+
+
+
 
 
 -->
