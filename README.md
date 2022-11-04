@@ -42,18 +42,12 @@ Here are some ideas to get you started:
 * [ ] [A curated list of awesome Go frameworks, libraries and software](https://pkg.go.dev/github.com/ik5/awesome-go?tab=overview#logging)
 * [ ] [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 * [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
-* [ ] [x](https://github.com/golang/go.wiki.git)
+* [ ] [GitHub Go](https://github.com/golang)
+* [ ] https://blog.golang.org/slices
+* [ ] https://xojoc.pw/blog/golang-file-tree-traversal
 
 
 <!--
-
-
-
-
-
-https://blog.golang.org/slices
-
-https://xojoc.pw/blog/golang-file-tree-traversal
 
 
 would you please be so kind to evaluate the option to write the DALIBU PC program in golang?
