@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokath)](https://github.com/anuraghazra/github-readme-stats)
 
-## My faforite PC language is [Go](go.dev)
+## My favorite PC language is [Go](https://go.dev)
 
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
