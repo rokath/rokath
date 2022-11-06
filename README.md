@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 * [ ] [Implementing Golang Interfaces](https://link.medium.com/W5oEMjLEF8)
 * [ ] [Testing Techniques](https://talks.golang.org/2014/testing.slide#1)
 * [ ] [Arrays, slices (and strings)](https://blog.golang.org/slices)
-* [ ] [Golang: File Tree Traversal (filepath.Walk)](https://xojoc.pw/blog/golang-file-tree-traversal)
 
 ### Examples
 
+* [ ] [Golang: File Tree Traversal (filepath.Walk)](https://xojoc.pw/blog/golang-file-tree-traversal)
 * [ ] [Simple golang expirement with ANSI colors · GitHub](https://gist.github.com/ik5/d8ecde700972d4378d87)
 * [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
 * [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
