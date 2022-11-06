@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Embedded Programming is my passion
 
-* [ ] Still sticking with C using function pointer arrays 
+* [ ] Still sticking with C (liking function pointer arrays) 
 
 ## My favorite PC language is [Go](https://go.dev)
 
