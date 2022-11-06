@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 * [ ] [Binary Search Algorithm Implemented in Go](https://flaviocopes.com/golang-algorithms-binary-search/)
 * [ ] [A Go unikernel running on x86 bare metal](https://github.com/icexin/eggos)
 
-### Learning Stuff
+### Learning
 
-* [ ] ...
+* [ ] [The Go Programming Language by Alan A. A. Donovan & Brian W. Kernighan](https://www.amazon.de/-/en/Alan-Donovan/dp/0134190440)
 <!--
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
 * [ ] https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
