@@ -33,6 +33,22 @@ Here are some ideas to get you started:
 * [ ] [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
 * [ ] [Concurrency is not Parallelism by Rob Pike ](https://youtu.be/oV9rvDllKEg)
 * [ ] [Expressiveness of Go PDF](https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf)
+* compiled language (fast)
+* fast compiler allows script like usage as well
+* managed language (memory leaks impossible)
+* auto-formatting as languge part
+* automated testing comes with the language, fuzzying supported
+* stand-alone runnable
+* open source
+* many platforms supprted
+* integrated documentation 
+* can use C-code
+* old code runs on new versions
+* generics
+
+## Disadvantages? 
+
+* Not made for small microcontrollers.
 
 ### About
 
