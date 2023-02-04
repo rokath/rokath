@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 * The **auto-formatting** as languge part is very comfortable.
 * A **testing environment** comes with the language. Fuzzying is supported.
 * You get a stand-alone runnable without libraries dependencies.
-* Go is **open source**, sponsored and professionelle used by Google.
+* Go is **open source**, sponsored and professionally used by Google.
 * **Many platforms** are supprted, also **mobile** development.
 * Go has an **integrated documentation** System.
 * Go can use **C-code** and vice versa.
