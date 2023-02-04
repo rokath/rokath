@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 * **Many platforms** are supprted, also **mobile** development.
 * Go has an **integrated documentation** System.
 * Go can use **C-code** and vice versa.
-* **Compatibility**:Go code runs on new Go versions.
+* **Compatibility**: Legacy Go code runs on new Go versions.
 * Go now has **generics** now.
 
 ## Disadvantages? 
 
 * Not made for small microcontrollers.
-* Not well suited for fast hard real-time applications because the stop1the
+* Not well suited for fast hard real-time applications because of the stop-the-world garbage collector.
 
 ### About
 
