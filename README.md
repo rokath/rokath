@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 * The **auto-formatting** as languge part is very comfortable.
 * A **testing environment** comes with the language. Fuzzying is supported.
 * You get a stand-alone runnable without libraries dependencies.
-* Go is **open source**, sponsored and professionally used by Google.
+* Go is **open source**, sponsored and professionally developed and used by Google.
 * **Many platforms** are supprted, also **mobile** development.
 * Go has an **integrated documentation** System.
 * Go can use **C-code** and vice versa.
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## Disadvantages? 
 
 * Not made for small microcontrollers.
-* Not well suited for fast hard real-time applications because of the stop-the-world garbage collector.
+* Not well suited for fast hard real-time applications on millisecond level because of the stop-the-world garbage collector.
 
 ### About
 
