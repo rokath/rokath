@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * [ ] [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
 * [ ] [Concurrency is not Parallelism by Rob Pike ](https://youtu.be/oV9rvDllKEg)
 * [ ] [Expressiveness of Go PDF](https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf)
-* Go is a **compiled language**, therefore **fast** and checks a lot before running the code.
+* Go is a **compiled language**, therefore **fast** and checks a lot before building the code.
 * The Go compiler is incredible fast, allows script like usage of Go as well.
 * Go is a managed language making **memory leaks impossible**.
 * The **auto-formatting** as languge part is very comfortable.
