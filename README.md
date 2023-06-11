@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 * Go has an **integrated documentation** System.
 * Go can use **C-code** and vice versa.
 * **Compatibility**: Legacy Go code runs on new Go versions.
-* Go now has **generics** now.
+* Go has **generics** now.
 
 ## Disadvantages? 
 
