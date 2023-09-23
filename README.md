@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 * Go is a **compiled language**, therefore **fast** and checks a lot before building the code.
 * The Go compiler is incredible fast, allows script like usage of Go as well.
 * Go is a managed language making **memory leaks impossible**.
+* Go is designed to use multi-core machines efficiently, allows incredible easy multi-threading and inter-process communication.
 * The **auto-formatting** as languge part is very comfortable.
 * A **testing environment** comes with the language. Fuzzying is supported.
 * You get a stand-alone runnable without libraries dependencies.
