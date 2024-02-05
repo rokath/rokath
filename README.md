@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Why?
 
-* Go is **open source**, sponsored and professionally developed and used by Google.
+* Go is **open source**, sponsored, professionally developed and used by Google.
 * Go is a **multi-purpose** language.
     * It supports graphics not directly but [GUI frameworks](https://blog.logrocket.com/best-gui-frameworks-go/) are around.
 * Go is **object oriented**.
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 * The **auto-formatting** as languge part is very comfortable.
     * This allows a bunch of helper tools.
 * A **testing environment** comes with the language. Fuzzying is supported.
-    * Simply create `my_test.go` files inside your Gp package and run `go test ./...` in the project root.
+    * Simply create `my_test.go` files inside your Go package and run `go test ./...` in the project root.
 * You get a **stand-alone runnable** without libraries dependencies.
     * No *missing library* anymore.
     * No *install ...* before running an executable.
