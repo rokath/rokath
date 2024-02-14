@@ -40,10 +40,10 @@ Here are some ideas to get you started:
     * [x] [OSCON 2010: Rob Pike, "Public Static Void"](https://youtu.be/5kj5ApnhPAE)
     * [x] [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
     * [ ] [Expressiveness of Go PDF](https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf)
-* Go is a **compiled language**, therefore **fast** and checks a lot before building the code.
-    * You get most **errors at compile-time and not at run-time** as with scripting languages.
-     The Go **compiler is fast**. It allows script like usage of Go as well.
-    * The Go program **execution is fast**.
+* Go is a **compiled language**, therefore checks a lot before building the code.
+    * You get most **errors at compile-time and not at run-time** as with scripting languages (like Python).
+     The Go [compiler itself is fast](https://www.youtube.com/shorts/DUm6U201o4w). It allows script like usage of Go as well.
+    * The [Go program execution is fast](https://www.youtube.com/shorts/Tf90fKykNDM).
         * Could be about half speed of a well written C program - not relevant for normal use cases. To get an equivalent "well written C programm" takes much longer than getting the Go program for a specific task.
 * Go is a managed language making **memory leaks impossible**.
     * No explicit memory *allocation* and *free*.
