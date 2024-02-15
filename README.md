@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     * [CGO](https://pkg.go.dev/cmd/cgo)
     * [SWIG](https://www.swig.org/Doc3.0/Go.html)
 * **Compatibility**: Legacy Go code runs on new Go versions.
-* Go has **generics** now.
+* Go has [generics](https://youtu.be/Pa_e9EeCdy8?si=e9hYAAFMwe51Zanl) now.
 
 
 ## Disadvantages? 
