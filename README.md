@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 
 ## Embedded Programming is my passion
 
-* [ ] Still sticking with C (liking function pointer arrays) in micro-controllers.
+* [x] Still sticking with C (liking function pointer arrays) in micro-controllers.
 
+## My faforite PC programming language is Go
+
+* [x] Why? See...
+ 
 <!--
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
 * [ ] https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
