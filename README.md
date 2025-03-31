@@ -25,10 +25,14 @@ Here are some ideas to get you started:
 
 * [x] Still sticking with C (liking function pointer arrays) in micro-controllers.
 
-## My faforite PC programming language is Go
+## My favorite PC programming language is Go
 
-* [x] Why? See...
- 
+* [x] Why? See https://github.com/rokath/AboutGo
+* [x] What I use Go for?
+  * [x] The **Trice** tool is written in Go.
+  * [x] Test tools stimulating embedded devices under test.
+  * [x] Test for C-code 
+
 <!--
 * [ ] [techtarget](https://www.techtarget.com/searchitoperations/definition/Go-programming-language)
 * [ ] https://gitlab.com/teaage/gospace/blob/master/books/MasteringGo_CreateGolang_production_applications.pdf
@@ -81,9 +85,4 @@ Here are some ideas to get you started:
 <!--
 
 -->
-
-### What I use Go for?
-
-* The **Trice** tool is written in Go.
-* Test tools stimulating embedded devices under test.
 
